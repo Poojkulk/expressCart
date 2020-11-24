@@ -2,3 +2,5 @@
 $(document).ready(function (){
     // Add specific code to this theme here
 });
+
+p "welcome to node js"
